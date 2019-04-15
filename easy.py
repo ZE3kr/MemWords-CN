@@ -22,8 +22,6 @@ os.system('clear')
 allCount = (end - start + 1)
 currentCount = 1
 
-x1 = [i for i in range(start - 1, end)]
-shuffle(x1)
 x2 = [i for i in range(start - 1, end)]
 shuffle(x2)
 
